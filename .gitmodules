@@ -1,3 +1,6 @@
 [submodule "zmk-config"]
 	path = zmk-config
 	url = https://github.com/quasimontecarlo/zmk-config
+[submodule "ergogen"]
+	path = ergogen
+	url = https://github.com/quasimontecarlo/ergogen
